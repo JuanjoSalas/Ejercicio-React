@@ -6,4 +6,4 @@ const Person = (props) => {
   )
 }
 
-export default Person
+export default Home
